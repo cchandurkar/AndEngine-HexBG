@@ -24,7 +24,7 @@ public class HexBackground extends Background{
 
 	private static float getRed(String hex) {
 		float mRed 	= Integer.parseInt((hex.charAt(0)+""+hex.charAt(1)),16)/255f;
-		Log.d("HexBackground", "Red: "+Integer.parseInt(hex.charAt(2)+""+hex.charAt(3),16)/255f);
+		Log.d("HexBackground", "Red: "+mRed);
 		return mRed;
 	}
 
