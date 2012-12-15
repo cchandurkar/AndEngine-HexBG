@@ -1,4 +1,4 @@
-AndEngine-Hexadecimal-Background-Wrapper
+AndEngine - Hexadecimal Background Wrapper
 ========================================
 
 Find it difficult  to use OpenGL color values in AndEngine?<br />
